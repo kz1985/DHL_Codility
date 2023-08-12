@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-12T13:23:12 EDT" name="Suite" finished-at="2023-08-12T13:23:21 EDT" duration-ms="9244">
+    <groups>
+    </groups>
+    <test started-at="2023-08-12T13:23:12 EDT" name="Test" finished-at="2023-08-12T13:23:21 EDT" duration-ms="9244">
+      <class name="com.DHL.CodilityAutomation.FunctionsOfUI">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:12 EDT" name="tearUp" finished-at="2023-08-12T13:23:14 EDT" duration-ms="1938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="validatePageTitle()[pri:1, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:14 EDT" name="validatePageTitle" finished-at="2023-08-12T13:23:14 EDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:14 EDT" name="tearDown" finished-at="2023-08-12T13:23:14 EDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:14 EDT" name="tearUp" finished-at="2023-08-12T13:23:15 EDT" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="ValidateHompage()[pri:2, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:15 EDT" name="ValidateHompage" finished-at="2023-08-12T13:23:15 EDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHompage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:15 EDT" name="tearDown" finished-at="2023-08-12T13:23:15 EDT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:15 EDT" name="tearUp" finished-at="2023-08-12T13:23:16 EDT" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="loginWithEmptyCredentials()[pri:2, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:16 EDT" name="loginWithEmptyCredentials" finished-at="2023-08-12T13:23:17 EDT" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptyCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:17 EDT" name="tearDown" finished-at="2023-08-12T13:23:17 EDT" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:17 EDT" name="tearUp" finished-at="2023-08-12T13:23:18 EDT" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="loginWithValidCredentials()[pri:3, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:18 EDT" name="loginWithValidCredentials" finished-at="2023-08-12T13:23:18 EDT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:18 EDT" name="tearDown" finished-at="2023-08-12T13:23:18 EDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:18 EDT" name="tearUp" finished-at="2023-08-12T13:23:19 EDT" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="loginWithInVaidID()[pri:4, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:19 EDT" name="loginWithInVaidID" finished-at="2023-08-12T13:23:19 EDT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInVaidID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:19 EDT" name="tearDown" finished-at="2023-08-12T13:23:20 EDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:20 EDT" name="tearUp" finished-at="2023-08-12T13:23:21 EDT" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="loginWithInVaidPassword()[pri:5, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:21 EDT" name="loginWithInVaidPassword" finished-at="2023-08-12T13:23:21 EDT" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInVaidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DHL.CodilityAutomation.FunctionsOfUI@543588e6]" started-at="2023-08-12T13:23:21 EDT" name="tearDown" finished-at="2023-08-12T13:23:21 EDT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DHL.CodilityAutomation.FunctionsOfUI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
